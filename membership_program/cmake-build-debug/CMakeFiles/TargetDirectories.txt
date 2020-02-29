@@ -1,0 +1,3 @@
+/home/wojtko/CLionProjects/membership_program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wojtko/CLionProjects/membership_program/cmake-build-debug/CMakeFiles/untitled12.dir
+/home/wojtko/CLionProjects/membership_program/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,17 @@
+****************************************README***********************************************
+
+
+FILES INCLUDED:
+I include a zip file with CLion project that contains just membership program, just in case of some problems with running or copying the content of main.c. Within that project in cmake-build-debug directory is .txt file called "members.txt" that correspond to the main.c file. I included source file in main.c that contains main.c source file.
+
+LIBRARY USED:
+I used just two standard libraries: stdio.h and stdlib.h. Package I also used is string.h.
+Nothing else.
+
+
+
+HOW TO BUILD MY CODE:
+To build my code all you need is just main.c file and member.txt file within same directory to load all members into data structures. I have not seperated main.c into two files (header file) to simplify buidilng and avoid errors related to using header file in C language.
+
+
+*******************************************WOS2***********************************************
